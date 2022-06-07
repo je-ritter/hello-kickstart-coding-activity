@@ -2,32 +2,11 @@
 
  <h2>Stitchfix</h2>
 <p> Languages in use: React, Redux</p>
-    - Redux
-    - Victor
-    - Elasticsearch, 
-    - Apache Spark
-    - Bootstrap, 
-    - Heroku, 
-    - Rails, 
-    - Amazon Cloud Front,
-  Google
-    - Python, 
-    - Java, 
-    - Angular JS, 
-    - Android SDK, 
-    - Golang, 
-    - C++, 
-    - Material Design, 
-    - Dart, 
-    - Guava, 
-    - Material Design Lite, 
-    - Preact, 
-    - Level DB.
+ <p> Other tech in use: Vitctor, Elasticsearch, Apache Spark, Bootstrap, Heroku, Rails, Amazon Cloud Front. </p>
 
-ecxitr Tech
-- html
-- React
-- yellow dellow
+<h2>Google</p>
+<p> Languages in use: Python, Java, Angular JS, C++, Preact.</p>
+<p> Other tech in use: Android SDK, Golang, Material Design, Material Design Lite.</p>
 
 
 
